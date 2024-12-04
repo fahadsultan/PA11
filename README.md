@@ -3,7 +3,10 @@
 
 <center><h1>PROGRAMMING ASSIGNMENT 11
 <br/><br/>HASHING</h1>
-**Due: Wednesday, December 11th, 2024, 2:30 PM**</center>
+
+**Due: Wednesday, December 11th, 2024, 2:30 PM**
+
+</center>
 <br/>
 
 <br/>
@@ -72,6 +75,7 @@ You are to write JUnit test cases in corresponding test classes for each of the 
 ---
 
 ## **Instructions**
+
 1. Click on `Accept Assignment` at the link posted on Moodle. This is equivalent to forking the repository.</font>
 2. Navigate to the repository you just forked. It should be named `pa11-<your-github-username>`
 3. Click on the green `Code` button. Click on SSH tab and copy the SSH link (it is important to use SSH and not HTTPS).
